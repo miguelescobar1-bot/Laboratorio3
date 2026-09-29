@@ -1,0 +1,4 @@
+# ignorar carpetas
+
+build/ 
+.qtcreator/
